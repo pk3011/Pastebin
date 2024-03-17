@@ -14,12 +14,12 @@ rules = [
 
 [[routes]]
 # Refer to https://developers.cloudflare.com/workers/wrangler/configuration/#routes
-pattern = "shz.al"
+pattern = "itspkg.fun"
 custom_domain = true
 
 [[kv_namespaces]]
 binding = "PB"  # do not touch this
-id = "cc398e983a234aa19de5ea6af571a483"  # id of your KV namespace
+id = "8e3cf56816154ffc9792b6040b3e7b64"  # id of your KV namespace
 
 [vars]
 # must be consistent with your routes
