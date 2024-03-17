@@ -14,7 +14,7 @@ rules = [
 
 [[routes]]
 # Refer to https://developers.cloudflare.com/workers/wrangler/configuration/#routes
-pattern = "itspkg.fun"
+pattern = "itspkg.site"
 custom_domain = true
 
 [[kv_namespaces]]
