@@ -23,7 +23,7 @@ id = "8e3cf56816154ffc9792b6040b3e7b64"  # id of your KV namespace
 
 [vars]
 # must be consistent with your routes
-BASE_URL = "https://shz.al"
+BASE_URL = "https://itspkg.site"
 
 # url to repo, displayed in index page
 REPO = "https://github.com/SharzyL/pastebin-worker"
